@@ -128,8 +128,8 @@
       #box(width: 100pt)[
         #text(
           font-size-map(entry.item), 
-          weight: "extrabold", 
-          font: ZhongSong
+   //     weight: "extrabold", 
+          font: Songti
         )[#entry.item]
       ]
     ],
